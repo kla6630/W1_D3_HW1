@@ -1,0 +1,44 @@
+.centro {
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.firstrectangle {
+  color: #004d4c;
+  background-color: #fdfbf1;
+  height: 4em;
+  text-align: center;
+  border-top-color: #ffd877;
+  border-top-style: solid;
+}
+
+.logoimg {
+  width: 20%;
+  height: auto;
+}
+
+h1 {
+  color: #333333;
+  font-family: Lato, Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 900;
+  font-size: 300%;
+}
+
+.paragraph {
+  color: #333333;
+  font-family: Lato, Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 900;
+  font-size: 100%;
+}
+
+.border_radius {
+  border-radius: 15px 15px 15px 15px;
+}
+
+.videocaption {
+  color: #999999;
+  font-family: Lato, Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 900;
+  font-size: 100%;
+}
